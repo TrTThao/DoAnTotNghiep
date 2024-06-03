@@ -1,5 +1,5 @@
 
-## Trang thương mại điện tử (Source:Đăng quang watch)
+## Trang thương mại điện tử
 
 Đây là website giúp mọi người có thể tham khảo và mua máy lọc nước một cách dễ dàng , nhận xét về sản phẩm một cách trực quan .
 ## Công nghệ
